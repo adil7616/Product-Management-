@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "T-Shirt",
+        "category": "Apparel",
+        "price": 19.99
+    },
+    {
+        "id": 2,
+        "name": "Coffee Mug",
+        "category": "Home & Kitchen",
+        "price": 9.99
+    },
+    {
+        "id": 3,
+        "name": "Notebook",
+        "category": "Stationery",
+        "price": 5.99
+    },
+    {
+        "id": 4,
+        "name": "Water Bottle",
+        "category": "Apparel",
+        "price": 15.99
+    },
+    {
+        "id": 5,
+        "name": "Backpack",
+        "category": "Apparel",
+        "price": 49.99
+    },
+    {
+        "id": 33,
+        "name": "Wireless Mouse",
+        "category": "Electronics",
+        "price": 25.99
+    },
+    {
+        "id": 34,
+        "name": "Jeans",
+        "category": "Apparel",
+        "price": 39.99
+    },
+    {
+        "id": 35,
+        "name": "Blender",
+        "category": "Home & Kitchen",
+        "price": 59.49
+    },
+    {
+        "id": 36,
+        "name": "The Alchemist",
+        "category": "Books",
+        "price": 12.99
+    },
+    {
+        "id": 37,
+        "name": "Football",
+        "category": "Sports",
+        "price": 19.99
+    },
+    {
+        "id": 38,
+        "name": "Lego Set",
+        "category": "Toys",
+        "price": 45.00
+    },
+    {
+        "id": 39,
+        "name": "Face Cream",
+        "category": "Beauty",
+        "price": 15.50
+    },
+    {
+        "id": 10,
+        "name": "Organic Honey",
+        "category": "Grocery",
+        "price": 10.00
+    },
+    {
+        "id": 11,
+        "name": "Desk Lamp",
+        "category": "Home & Kitchen",
+        "price": 18.75
+    },
+    {
+        "id": 12,
+        "name": "Running Shoes",
+        "category": "Apparel",
+        "price": 69.99
+    },
+    {
+        "id": 13,
+        "name": "Yoga Mat",
+        "category": "Sports",
+        "price": 29.99
+    },
+    {
+        "id": 14,
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "price": 99.99
+    },
+    {
+        "id": 15,
+        "name": "Smartphone Case",
+        "category": "Electronics",
+        "price": 15.00
+    }
+]
